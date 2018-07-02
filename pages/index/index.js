@@ -13,9 +13,9 @@ Page({
     previousMargin: 0,
     nextMargin: 0,
     imgUrls: [
-     " https://coding.net/u/cuijiangtao/p/webagcycle/git/raw/master/image/swiper1.jpg",
-      "https://coding.net/u/cuijiangtao/p/webagcycle/git/raw/master/image/swiper2.jpg",
-      "https://coding.net/u/cuijiangtao/p/webagcycle/git/raw/master/image/swiper3.jpg",
+     "https://thumbnail0.baidupcs.com/thumbnail/340890e760b20efd69e128b9426fa354?fid=346474898-250528-463010661958150&time=1527930000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-pmcxvp%2FAxQ%2Fw%2B2wDVHkDxsirrFs%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=83073290753941423&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video",
+      "https://thumbnail0.baidupcs.com/thumbnail/0265904cf7a050894cba65a7a5d1cb77?fid=346474898-250528-317082770147625&time=1527818400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-btjgcIx5di2reO%2F329rpJJNfZKA%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=3511892099965826670&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video",
+      "https://thumbnail0.baidupcs.com/thumbnail/3af9e31433537f7dc8acc888e76de797?fid=346474898-250528-87197638634354&time=1527818400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-sCMcjYiMqJhGK9EbXwIvU7wl3hs%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=3511903474612388915&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video",
       "https://thumbnail0.baidupcs.com/thumbnail/dcd3a432576b423f161d3c784e6d9b1b?fid=346474898-250528-248580715158615&time=1527818400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-J9gjUdRaQ7cZEroG2KDisbAnZWQ%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=3511912656524125031&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video"
     ],
     news:[
