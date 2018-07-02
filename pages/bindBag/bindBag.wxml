@@ -1,0 +1,16 @@
+<import src="../common/head.wxml" />
+<template is="head" />
+<view class="container">
+  <view class='backRecord'>
+    <form>
+        <view class="form">
+          <input class="input" type="text" placeholder="请输入回收袋编号" auto-focus='true'></input>
+        </view>
+        <button class='button'>点我确定</button>
+    </form>
+    <view class='erweima'>
+      <button class="button" bindtap="openCode">点我扫描二维码</button>
+    </view>
+
+  </view>
+</view>

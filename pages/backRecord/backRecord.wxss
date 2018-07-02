@@ -1,0 +1,40 @@
+/* pages/backRecord/backRecord.wxss */
+@import "../user/user.wxss";
+@import '../../utils/refreshView.wxss';
+.item-style{  
+  padding: 30rpx;  
+  font-size: 40rpx;  
+  text-align: center;  
+  border-top: 2rpx solid #eee;  
+}  
+.backRecord {
+  width: 100%;
+  margin-top:14rpx; 
+  background-size:100%;
+  background-image: url(https://thumbnail0.baidupcs.com/thumbnail/77cc0549d89cbc67ad2800ba001b2a56?fid=346474898-250528-538949706144853&time=1527818400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-3s3TP8MAgxU%2BKgXomVzVBfIlepE%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=3512403358155901668&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video);
+}
+
+.backRecord .header {
+  display: flex;
+  width: 100%; 
+  height:62rpx;
+  line-height: 62rpx;
+  font-size: 30rpx;
+  font-weight: bold;
+}
+.backRecord .header .header-item{
+  flex: 1;
+  text-align: center;
+}
+.backRecord .list-item{
+  display: flex;
+  width: 100%;
+  height: 94rpx;
+  line-height: 94rpx;
+  border-bottom: 1px solid #eee;
+  font-size:28rpx;
+}
+.backRecord .list-item .info{
+  flex: 1;
+  text-align: center;
+}
